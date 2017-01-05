@@ -4,7 +4,7 @@ K近邻(KNN，k-NearestNeighbor)分类算法是数据挖掘分类技术中最简
 
 ### KNN近邻算法思想
 
-根据上文 [K-means](http://www.cnblogs.com/TTyb/p/6249667.html) 算法分类，可以将一堆 `毫无次序` 的样本分成N个簇，如下：
+根据上文 [K-means](https://github.com/TTyb/K-means) 算法分类，可以将一堆 `毫无次序` 的样本分成N个簇，如下：
 
 ![](http://images2015.cnblogs.com/blog/996148/201701/996148-20170105145136300-1765225792.jpg)
 
